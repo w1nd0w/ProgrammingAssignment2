@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2 to demonstrate use of a cached object
 
 ## Create object to store matrix and its inverse
 
